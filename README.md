@@ -84,7 +84,19 @@ Each problem has a **Fix** button.
 > 3D View it sets the origin, elsewhere it does nothing. Quit with File > Quit. All shortcuts can be
 > changed or switched off in the add-on preferences.
 
-![Pie menu and transform menu](docs/media/en/menus.gif)
+### Origin pie (Shift Alt Q)
+
+Opens at the pointer. Point at a side and click: the origin goes to that point of the bounding box. The
+column at the bottom has Center, Origin to Selection, Drop to Floor and Orient Origin.
+
+![Origin pie](docs/media/en/pie.gif)
+
+### Transform menu (Ctrl Shift Q or Shift Mouse 4)
+
+Transform Orientation, Pivot Point and Snapping as three cards around the pointer. A click picks and
+closes; Shift click adds snapping elements and keeps the menu open; Esc closes.
+
+![Transform menu](docs/media/en/transform.gif)
 
 ## Installation
 
