@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "advanced_origin_tools"
+version = "1.5.0"
+name = "Advanced Origin Tools"
+tagline = "Set origins, restore object axes and check objects for export"
+maintainer = "Moss3D"
+type = "add-on"
+
+tags = ["3D View", "Object", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+# The add-on's code is GPL; the bundled fonts (fonts/) keep their own SIL Open Font License.
+license = [
+  "SPDX:GPL-3.0-or-later",
+  "SPDX:OFL-1.1",
+]
+copyright = [
+  "2026 Moss3D",
+  "2017 IBM Corp. (IBM Plex Sans)",
+  "2020 The JetBrains Mono Project Authors (JetBrains Mono)",
+]
