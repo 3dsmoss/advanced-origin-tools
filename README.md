@@ -9,9 +9,9 @@ Made by **Moss3D**.
 **Download (free):** [GitHub Releases](https://github.com/3dsmoss/advanced-origin-tools/releases/latest) ·
 [Gumroad](https://moss3d.gumroad.com/l/origin-tools)
 
-[![Watch the video on YouTube](https://img.youtube.com/vi/vPk3yA4KC8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=vPk3yA4KC8A)
+[![Watch the video on YouTube](https://img.youtube.com/vi/UXd3GFrvVBo/maxresdefault.jpg)](https://www.youtube.com/watch?v=UXd3GFrvVBo)
 
-▶ [Watch the 1-minute video on YouTube](https://www.youtube.com/watch?v=vPk3yA4KC8A)
+▶ [Watch the 2-minute video on YouTube](https://www.youtube.com/watch?v=UXd3GFrvVBo)
 
 ![Orient Origin](docs/media/en/orient.gif)
 
