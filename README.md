@@ -6,6 +6,13 @@ they go to a game engine.
 
 Made by **Moss3D**.
 
+**Download (free):** [GitHub Releases](https://github.com/3dsmoss/advanced-origin-tools/releases/latest) ·
+[Gumroad](https://moss3d.gumroad.com/l/origin-tools)
+
+[![Watch the video on YouTube](https://img.youtube.com/vi/vPk3yA4KC8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=vPk3yA4KC8A)
+
+▶ [Watch the 1-minute video on YouTube](https://www.youtube.com/watch?v=vPk3yA4KC8A)
+
 ![Orient Origin](docs/media/en/orient.gif)
 
 ## Features
@@ -83,7 +90,9 @@ Each problem has a **Fix** button.
 
 Blender **4.2 or newer** (tested on 4.3, 4.5 and 5.2).
 
-1. Download `advanced_origin_tools-x.y.z.zip`.
+1. Download `advanced_origin_tools-x.y.z.zip` from
+   [Releases](https://github.com/3dsmoss/advanced-origin-tools/releases/latest) or
+   [Gumroad](https://moss3d.gumroad.com/l/origin-tools). Don't unzip it.
 2. In Blender: **Edit > Preferences > Get Extensions**, then the **⌄** menu at the top right >
    **Install from Disk…**, and pick the zip.
 3. Open the sidebar in the 3D View (**N**) and the **Origin** tab.
