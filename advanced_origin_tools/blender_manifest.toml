@@ -11,10 +11,10 @@ tags = ["3D View", "Object", "Mesh"]
 
 blender_version_min = "4.2.0"
 
-# The add-on's code is GPL; the bundled fonts (fonts/) keep their own SIL Open Font License.
+# The add-on's code is GPL; the bundled fonts (fonts/) keep their own SIL Open Font License
+# (fonts/OFL-*.txt). Blender Extensions accepts only software licenses in this list.
 license = [
   "SPDX:GPL-3.0-or-later",
-  "SPDX:OFL-1.1",
 ]
 copyright = [
   "2026 Moss3D",
